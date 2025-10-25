@@ -15,4 +15,6 @@ C++ MFC application to search, filter, and view UAV mission XML data efficiently
 3. Build and run the project.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE) – see the [LICENSE](LICENSE) file for details.
+
