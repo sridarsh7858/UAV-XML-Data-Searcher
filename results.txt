@@ -1,0 +1,15 @@
+Matched file: C:\Users\SRIDARSH\Desktop\XMLF\output.xml
+  Type - Vehicle
+  SD - Dynamic
+  Name - Car
+  Start_Time - None
+  End_Time - None
+  Latitude - 2
+  Longitude - 3
+  Altitude - 5
+  Description - a red car
+  Event Contents:
+    Type - Vehicle Tracking
+    Start_Time - 12:03:00
+    End_Time - 12;04:00
+
