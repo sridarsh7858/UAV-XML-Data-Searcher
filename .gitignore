@@ -2,12 +2,19 @@
 .vs/
 *.user
 *.suo
-*.vcxproj.user
+*.ncb
+*.sdf
 *.ipch
+*.VC.db
 *.pch
-*.obj
-*.exe
-*.ilk
-*.pdb
+
+# Build folders
 Debug/
 Release/
+x64/
+x86/
+*.exe
+*.dll
+*.obj
+*.lib
+*.log
